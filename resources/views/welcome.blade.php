@@ -33,6 +33,9 @@
         <h1 align="center">WELCOME<br><br>BIODATA DIRI</h1>
         <table>
             <div class = container>
+                <tr>
+                    <th colspan = 4><h2>PROVINSI JAWA TIMUR<br>KABUPATEN KEDIRI</h2></th>
+                </tr>
                 <div>
                     <tr class = td>
                         <td><font size = 5 face = courier>NIK</font></td>
@@ -58,7 +61,7 @@
                 </tr>
                 <tr>
                     <td align = right>RT/RW</td>
-                    <td colspan = 2>: 002/006</td>
+                    <td colspan = 2>: ***/***</td>
                 </tr>
                 <tr>
                     <td align = right>Kel/Desa</td>
